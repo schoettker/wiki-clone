@@ -73,3 +73,11 @@ ul h3 {
   background-color: #DDCEF2;
 }
 /* End Extra Content */
+
+/* Additional Links */
+.logo {
+  float: left;
+  margin-right: 20px;
+  width: 32px;
+  margin-bottom: 10px;
+}
