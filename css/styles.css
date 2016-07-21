@@ -1,7 +1,7 @@
 body {
   background-color: #F6F6F6;
 }
-ul.left {
+ul.leftnav {
   list-style-type: none;
   background-color: #F6F6F6;
 }
@@ -22,4 +22,26 @@ ul h3 {
 }
 .jumbotron p {
   font-size: 14px;
+}
+.leftcol {
+  background-color: #F5FFFA;
+}
+.leftcol h3 {
+  background-color: #CEF2E0;
+}
+.rightcol {
+  background-color: #F5FAFF;
+}
+.rightcol h3 {
+  background-color: #CEDFF2;
+}
+.col h3 {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 4px;
+  border: lightgrey 1px solid;
+}
+.col {
+  border: lightgrey 1px solid;
+  
 }
