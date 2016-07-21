@@ -1,0 +1,11 @@
+body {
+  background-color: #F6F6F6;
+}
+ul {
+  list-style-type: none;
+  background-color: #F6F6F6;
+}
+ul h3 {
+  font-size: 14px;
+  color: #676262;
+}
