@@ -1,11 +1,25 @@
 body {
   background-color: #F6F6F6;
 }
-ul {
+ul.left {
   list-style-type: none;
   background-color: #F6F6F6;
 }
 ul h3 {
   font-size: 14px;
   color: #676262;
+}
+.categories {
+  display: inline;
+
+}
+.categories li a {
+  font-size: 14px;
+}
+.jumbotron h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.jumbotron p {
+  font-size: 14px;
 }
