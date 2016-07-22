@@ -77,11 +77,15 @@ ul h3 {
 .rightcol h3 {
   background-color: #CEDFF2;
 }
+.importanlink {
+  font-weight: bold;
+}
 /* End Main Content */
 
 /* Extra Content */
 .extra {
   background-color: #FAF5FF;
+  padding-bottom: 10px;
 }
 .extra h3 {
   background-color: #DDCEF2;
