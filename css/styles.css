@@ -14,6 +14,20 @@ ul h3 {
 
 /* End Navigation Left */
 
+/* Navigation Top */
+.bottombar,
+.topbar {
+  padding-right: 20px;
+}
+.bottombar {
+  border-top: 0px;
+  margin-top: 0px;
+}
+.topbar {
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+/* End Navigation Top *
 /* Jumbotron */
 .jumbotron {
   background-color: white;
